@@ -1,0 +1,28 @@
+
+
+  th{
+    width: 200px !important;
+}
+
+.dailytasktable-1{
+    /* width: 180%; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.myTable-1{
+width: 120% !important;
+}
+
+.myTable-1 thead tr{
+    width: 200px !important;
+}
+
+
+@media(max-width:768px){
+    .workinputnutton{
+       position: absolute;
+       left: 20px;
+       top: 27px;
+    }
+}

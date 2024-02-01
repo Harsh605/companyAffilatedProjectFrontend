@@ -1,0 +1,10 @@
+.tableworkbuttonproject{
+    display: flex;
+    gap: 5px;
+  }
+
+
+  .projectdeatilstable{
+    margin-top: 10px;
+    width: 100%;
+  }

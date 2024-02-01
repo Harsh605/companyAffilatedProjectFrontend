@@ -1,0 +1,81 @@
+.leadinput{
+    display: flex;
+    gap: 10px;
+}
+
+@media(max-width:900px){
+    .leadinput {
+        display: flex !important;
+flex-direction: column !important;
+        /* gap: 10px; */
+    }
+
+}
+
+.addleadsbutton{
+    /* position: relative;
+    left: 91%; */
+    display: flex;
+    justify-content: space-between;
+}
+
+
+@media(max-width:768px){
+    .addleadsbutton{
+        
+    }
+      
+}
+
+
+
+.leadinputdate{
+    display: flex;
+    gap: 10px;
+}
+
+
+
+@media(max-width:768px){
+    .leadinputdate{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .leadinputdate .leadinputstwo{
+        width: 188%;
+    }
+
+    .leadssearchbtn{
+        width: 30px;
+    }
+    
+}
+
+
+
+
+th{
+    width: 210px !important;
+}
+
+.dailytasktable-1{
+    /* width: 180%; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.myTable-1{
+width: 120% !important;
+}
+
+.mytables {
+    width: auto !important;
+    min-width: 180%;
+    overflow-x: scroll;
+}
+
+.myTable-1 thead tr{    
+    width: 210px !important;
+}
+

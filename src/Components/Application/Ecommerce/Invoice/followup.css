@@ -1,0 +1,10 @@
+.tablefollowupbutton{
+     display: flex;
+     gap: 5px;
+     position: absolute;
+     left: 67.5%;
+     /* margin-top: 20px; */
+     top: 55px;
+}
+
+ 

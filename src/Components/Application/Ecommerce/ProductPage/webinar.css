@@ -1,0 +1,36 @@
+.webinardetails{
+
+    padding: 10px 20px;
+    width: 100% !important;
+    background: white;
+    border-radius: 10px;
+
+}
+
+
+.webinardetails .webinarimage img{
+    /* align-items: center; */
+    width: 100%;
+}
+
+.webinardetails .webinarimage{
+    display: flex;
+justify-content: center;
+margin: auto;
+}
+
+
+
+.webinartableworkbutton{
+    display: flex;
+    gap: 5px;
+  }
+
+
+  .webinartable{
+    margin-top: 10px;
+    width: auto !important;
+    min-width: 120%;
+    overflow-x: scroll;
+
+  }
